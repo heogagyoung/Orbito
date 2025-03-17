@@ -16,6 +16,7 @@ ESC 키를 누르면 타이틀로 돌아올지 물어봅니다
 
 2P 플레이어의경우 우클릭시 화면전환방향 한번 바꾸기가능
 
+F11, Alt+Enter로 전체화면 조절가능
 ---
 # Orbito
 WindowAPI_ORBITOCLIENT
